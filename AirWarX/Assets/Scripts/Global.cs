@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public static class Global
-{
+public static class Global {
 
-	public static Player player1;
-	public static Player player2;
-
+	public static GameObject player1;
+	public static GameObject player2;
+	public static int player1Life;
+	public static int player2Life;
+	public static GameObject explosion;
 }

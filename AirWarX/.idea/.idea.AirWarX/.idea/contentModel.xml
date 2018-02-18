@@ -15,9 +15,13 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Bullet.cs" t="Include" />
           <e p="GameControl.cs" t="Include" />
           <e p="Global.cs" t="Include" />
+          <e p="MapMove.cs" t="Include" />
           <e p="Player.cs" t="Include" />
+          <e p="PlayGround.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="Environment" t="Include">
